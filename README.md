@@ -17,6 +17,6 @@ Two_or_more_races_population play a vital role in diabetes count followed by Asi
 Gross income by county does not have much predictive power towards finding diabetes count
 
 # How Can MindTrades help?
-MindTrades Consulting Services, a leading marketing agency provides in-depth analysis and insights for the global IT sector including leading data integration brands such as Diyotta. From Cloud Migration, Big Data, Digital Transformation, Agile Deliver, Cyber Security, to Analytics- Mind trades provides published breakthrough ideas, and prompt content delivery. For more information, check [mindtrades.com].
+MindTrades Consulting Services, a leading marketing agency provides in-depth analysis and insights for the global IT sector including leading data integration brands such as Diyotta. From Cloud Migration, Big Data, Digital Transformation, Agile Deliver, Cyber Security, to Analytics- Mind trades provides published breakthrough ideas, and prompt content delivery. For more information, check [mindtrades.com]
 
 
